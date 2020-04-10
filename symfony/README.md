@@ -12,7 +12,7 @@ Esse projeto foi desenvolvido com [Vue.js](https://vuejs.org) com [Quasar](https
 
 Sempre que trabalho com Frameworks, principalmente full stack, eu sempre crio abstrações para poder tornar o desenvolvimento um pouco mais orgânico e também deixar entidades o mais reutilizável e desacopladas possível.
 
-Vou mostrar aqui uma abstração que fiz para todas as Entities:
+Aqui vão alguns screenshots da aplicação:
 
 ##### Tela de Login
 
@@ -21,6 +21,8 @@ Vou mostrar aqui uma abstração que fiz para todas as Entities:
 ##### Ocorrências
 
 ![Kaswork Ocorrências](./images/kaswork-ocorrencias.png)
+
+Vou mostrar aqui uma camada de abstração que fiz para todas as Entities:
 
 ##### AbstractEntity
 
