@@ -32,7 +32,7 @@ Nessa API foram adotadas:
 
 - Todos os microserviços foram desenvolvidos com PHP;
 
-- Testes unitários e de Integração;
+- Testes de unidade e de Integração;
 
 - Domain-Driven Design;
 
